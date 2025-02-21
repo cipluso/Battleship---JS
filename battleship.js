@@ -504,7 +504,7 @@ class Board {
 				return false;
 			}
 			else {
-				this.message("Para de desperdiçar tiros! Já disparaste nesta posição.");
+				this.message("Para de desperdiçar torpedos! Já disparaste nesta posição.");
 				return false;
 			}
 		}
@@ -520,7 +520,7 @@ class Board {
 				return true;
 			}
 			else {
-				this.message("Para de desperdiçar tiros! Já disparaste nesta posição.");
+				this.message("Para de desperdiçar torpedos! Já disparaste nesta posição.");
 				return false;
 			}
 		}
